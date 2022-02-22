@@ -10,13 +10,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aranya Chakraborty"
+title                    : "Miao Dai"
 title_separator          : "-"
-name                     : &name "Aranya Chakraborty"
+name                     : &name "Miao Dai"
 description              : &description "PhD Candidate, Department of Economics, McGill University"
-url                      : https://aranyac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://miaodai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aranyac/aranyac.github.io"
+repository               : "miaodai/miaodai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -59,10 +59,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : aranyac_econ
 facebook:
-  username               : aranyarocks
+  username               : sebastian.damuel
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -83,36 +81,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aranya Chakraborty"
+  name             : "Miao Dai"
   avatar           : "profile.png"
   bio              : "PhD Candidate"
-  location         : "Montreal, QC, Canada"
+  location         : "Montreal, Quebec, Canada"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : aranya.chakraborty@mail.mcgill.ca
-  researchgate     : "https://www.researchgate.net/profile/Aranya-Chakraborty"  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : miao.dai@mail.mcgill.ca
+  researchgate     : "https://www.researchgate.net/profile/Miao-Dai"  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "aranyarocks"
+  facebook         : "miaodai"
   foursquare       :
-  github           : "aranyac"
+  github           : "miaodai"
   google_plus      :
   keybase          :
-  instagram        : "aranyaecon"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "aranya-chakraborty-62975b119"
+  linkedin         : "miao-dai-735a82116"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : 16597488/aranya # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "aranyac_econ"
   vine             :
   weibo            :
   xing             :
