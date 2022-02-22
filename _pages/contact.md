@@ -3,12 +3,17 @@ permalink: /contact/
 title: "Contact"
 ---
 
-Name: Aranya Chakraborty   
-Email: aranya.chakraborty@mail.mcgill.ca   
-Phone: +1-514-699-9655   
+Name: Miao Dai   
+Email: miao.dai@mail.mcgill.ca   
+Phone: +1-438-630-9165   
 
+## Work Address  
+414-855 Sherbrooke St. West  
+Montreal, QC 
+H3A 2T7 Canada
   
 ## Mailing Address  
-Apt. 307, 6001 Cote Saint-Luc Road   
+307-6001 Cote Saint-Luc Road   
 Hempstead, Quebec   
-Canada H3X 2G4   
+H3X 2G4 Canada
+
