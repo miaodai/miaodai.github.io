@@ -1,9 +1,8 @@
 ---
 permalink: /contact/
-title: "Contact"
 ---
 
-Name: Miao Dai   
+## Contact 
 Email: miao.dai@mail.mcgill.ca   
 Phone: +1-438-630-9165   
 
