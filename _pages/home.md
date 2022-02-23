@@ -8,4 +8,5 @@ redirect_from:
   - /home.html
 ---
 
-Welcome! I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/economics/) at [McGill University](https://www.mcgill.ca/). My research interests are in the areas of Development, Applied Micro, and Institutional Economics. Currently, I am working on my job market paper that focuses on using network-based targeting strategies for improving technology adoption.  
+Welcome to my page. I am a Ph.D. candidate at the [Department of Economics](https://www.mcgill.ca/economics/), [McGill University](https://www.mcgill.ca/), Canada. My research lies at the crossroads of Environmental and Resource Economics, Industrial Organziation, International Trade and Political Economy. I am currently working on how changes in ownership structure (cross-ownership and common ownership) might affect the strategic resource use and their implications for climate change. Also, I am investigating the role played by lobby groups on international trade in waste from a political economy approach.
+ 
