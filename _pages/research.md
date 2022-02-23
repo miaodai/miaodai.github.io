@@ -1,4 +1,7 @@
-
+---
+permalink: /research/
+title: "Research"
+---
 
 ## Publications
 
