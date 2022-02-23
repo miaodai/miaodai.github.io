@@ -2,21 +2,23 @@
 permalink: /research/
 title: "Research"
 ---
-## Working Papers
-
-* “Optimal Network Based Targeting for Technology Adoption in Developing Countries” [Full Paper](/files/pdf/Optimal Network Based Targeting for Technology Adoption in Developing Countries.pdf)
-* “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya” [Full Paper](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf)
-
-## Work in Progress
-
-* “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh” (with Matthieu Chemin)
-* “Beliefs about Uncertain Technologies: Experimental Evidence from a Coordination Game in Peru” (with Jim Engle-Warnick, Javier Escobal, and Sonia Laszlo)
 
 ## Publications
 
-* “Food Insecurity, Price Volatility and Trade: A Panel Data Analysis in Developing Countries” (with Panchanan Das and Swayambhu Mukherjee), Indian Agriculture under Multilateral and Regional Trade Agreements - Competitiveness and Food Security, Sharma and Bathla (eds.), Bookwell, Delhi, 2017, 177-194. [Full Paper](/files/pdf/Food Insecurity, Price Volatility, and Trade.pdf)
+* Miao Dai, Hassan Benchekroun, and Ngo Van Long, 2022. “On the profitability of cross-ownership in Cournot oligopolies: Stock size matters.” Journal of Environmental Economics and Management, Volume 111: 102597. [Full Paper](/files/pdf/On the profitability of cross-ownership in Cournot oligopolies.pdf)
 
-## Other Papers
 
-* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with Panchanan Das and Swayambhu Mukherjee), 2016 [Full Paper](/files/pdf/Industrial Performance in West Bengal.pdf)
+## Working Papers
+
+* “The impact of cross-ownership on the value of a clean technology in the energy market.” Revised and Resubmitted to Environmental Modelling and Assessment. (with Hassan Benchekroun and Ngo Van Long）[Full Paper](/files/pdf/The Impact of Cross-ownership on the Value of a Clean Technology in the Energy Market.pdf)
+
+* “The political economy of trade in waste”. (Job Market Paper) [Full Paper](/files/pdf/The political economy of trade in waste.pdf)
+
+## Work in Progress
+
+* “The role of pressure groups in international trade in waste: A gravity approach” 
+* “Common ownership in a nonrenewable market” 
+* “Solving Feedback Nash equilibria with more heterogenous players: using Markov chain approximation method”. (with Fan Yang)
+
+
 
