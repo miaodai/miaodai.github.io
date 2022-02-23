@@ -5,8 +5,8 @@ title: "Research"
 
 ## Publications
 
-* [On the profitability of cross-ownership in Cournot oligopolies: Stock size matters] (https://doi.org/10.1016/j.jeem.2021.102597)
- Journal of Environmental Economics and Management, Volume 111: 102597. 
+*"On the profitability of cross-ownership in Cournot oligopolies: Stock size matters." (with Hassan Benchekroun and Ngo Van Long）
+ Journal of Environmental Economics and Management, Volume 111: 102597. (https://doi.org/10.1016/j.jeem.2021.102597)
 
 
 ## Working Papers
