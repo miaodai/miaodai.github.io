@@ -8,8 +8,9 @@ Email: miao.dai@mail.mcgill.ca
 Phone: +1-438-630-9165   
 
 ## Mailing Address 
-855 Sherbrooke Street West
-Montreal, QC H3A 2T7
+855 Sherbrooke Street West,
+Montreal, Quebec,
+Canada H3A 2T7
   
 
 
