@@ -17,7 +17,7 @@ title: "Research"
 
 * “The role of pressure groups in international trade in waste: A gravity approach” 
 * “Common ownership in a nonrenewable market” 
-* “Solving Feedback Nash equilibria with more heterogenous players: using Markov chain approximation method”. (with Fan Yang)
+* “Solving Feedback Nash equilibria with more heterogenous players: using Markov chain approximation method” 
 
 
 
