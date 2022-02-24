@@ -59,6 +59,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+twitter:
+  username               : sebdamuel
 facebook:
   username               : sebastian.damuel
   app_id                 :
@@ -110,6 +112,7 @@ author:
   tumblr           :
   vine             :
   weibo            :
+  twitter          : "sebdamuel"
   xing             :
   youtube          :
   wikipedia        :
