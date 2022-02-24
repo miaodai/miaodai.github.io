@@ -3,16 +3,16 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-During my master and PhD studies, I have gained extensive and valuable teaching experience as both an instructor and teaching assistants. I have taught undergraduate courses on Intermediate Microeconomics. While at McGill University, I serve as a teaching assistant both at the Department of Economics and Max Bell School of Public Policy. You can view my teaching portfolio here and find a selection of my teaching materials used [here](/teaching-materials).
+During my master and PhD studies, I have gained extensive and valuable teaching experience both as an instructor and teaching assistants. I have taught undergraduate courses on Intermediate Microeconomics. While at McGill University, I serve as a teaching assistant both at the Department of Economics and Max Bell School of Public Policy. You can view my teaching portfolio here and find a selection of my teaching materials used for some courses.
 
 
 ## Instructor, Department of Economics, University of Winnipeg
-- Intermediate Microeconomics (Spring 2017)
+- Intermediate Microeconomics (Spring 2017) [here](/teaching-materials)
 
 
 ## Graduate Teaching Assistant, Max Bell School of Public Policy, McGill University
-- Global Macroeconomic Policy (Winter 2022, Winter 2021, Winter 2020)
-- Microeconomics for Public Policy (Fall 2021, Fall 2020, Fall 2019)
+- Global Macroeconomic Policy (Winter 2022, Winter 2021, Winter 2020) [here](/teaching-materials)
+- Microeconomics for Public Policy (Fall 2021, Fall 2020, Fall 2019) [here](/teaching-materials)
 
 
 ## Teaching Assistant, Department of Economics, McGill University
