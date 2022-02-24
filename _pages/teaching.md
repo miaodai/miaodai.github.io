@@ -3,39 +3,37 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-I have gained valuable and extensive teaching experience in the past few years. At McGill
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+During my master and PhD studies, I have gained extensive and valuable teaching experience as both an instructor and teaching assistants. I have taught undergraduate courses on Intermediate Microeconomics. While at McGill University, I serve as a teaching assistant both at the Department of Economics and Max Bell School of Public Policy. You can view my teaching portfolio here and find a selection of my teaching materials used [here](/teaching-materials).
 
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+## Instructor, Department of Economics, University of Winnipeg
+- Intermediate Microeconomics (Spring 2017)
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+## Graduate Teaching Assistant, Max Bell School of Public Policy, McGill University
+- Global Macroeconomic Policy (Winter 2022, Winter 2021, Winter 2020)
+- Microeconomics for Public Policy (Fall 2021, Fall 2020, Fall 2019)
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+
+## Teaching Assistant, Department of Economics, McGill University
+- Natural Resource Economics (Winter 2022)
+- Advanced Economic Theory - Honours (Fall 2021)
+- Microeconomic Analysis and Applications (Summer 2021)
+- Microeconomic Theory (Winter 2021, Winter 2020, Winter 2018)
+- Political Economy of Trade Policy (Winter 2021, Winter 2019)
+- Industrial Organization (Fall 2020)
+- Public Sector Economics (Fall 2019, Fall 2018)
+- Mathematics for Economists (Summer 2019)
+- Economics of the Environment (Fall 2017)
+
+
+## Lab Demonstrator/Teaching Assistant, Department of Economics, University of Winnipeg
+- Intermediate Microeconomics (Winter 2017, Fall 2016, Winter 2016, Fall 2015)
+- Introduction to Macroeconomics (Winter 2017)
+- Modern Microeconomics for Economics and Business (Winter 2017)
+- Mathematical Economics (Fall 2016)
+- Introduction to Microeconomics (Fall 2016)
+- Introduction to Economic Theory (Fall 2015)
+
+
+
