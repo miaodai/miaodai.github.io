@@ -303,6 +303,8 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+# Google Analytics
+google_analytics: UA-229748296-1
 
 # HTML Compression
 # - http://jch.penibelst.de/
