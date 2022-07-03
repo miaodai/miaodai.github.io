@@ -8,9 +8,9 @@ During my master and PhD studies, I have gained extensive and valuable teaching 
 
 ## Instructor, Department of Economics, University of Winnipeg
 - Intermediate Microeconomics (Spring 2017) 
-  [Lab Questions](/teaching-materials)
-  [Assignments](/teaching-materials) 
-  [Practice Questions](/teaching-materials) 
+  [Lab Questions](/teaching-materials);
+  [Assignments](/teaching-materials);
+  [Practice Questions](/teaching-materials);
   [Exams](/teaching-materials)
 
 
