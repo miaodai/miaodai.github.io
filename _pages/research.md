@@ -6,11 +6,11 @@ title: "Research"
 ## Publications
 
 * "On the profitability of cross-ownership in Cournot oligopolies: Stock size matters" with Hassan Benchekroun and Ngo Van Long (2022), Journal of Environmental Economics and Management, Volume 111: 102597. [Full Paper](https://doi.org/10.1016/j.jeem.2021.102597)
+* “The impact of cross-ownership on the value of a clean technology in the energy market” with Hassan Benchekroun and Ngo Van Long (2022), Environmental Modelling and Assessment. [Full Paper](/files/pdf/The Impact of Cross-ownership on the Value of a Clean Technology in the Energy Market.pdf)
 
 ## Working Papers
-
-* “The impact of cross-ownership on the value of a clean technology in the energy market” with Hassan Benchekroun and Ngo Van Long (2021), Revised and Resubmitted to Environmental Modelling and Assessment. [Full Paper](/files/pdf/The Impact of Cross-ownership on the Value of a Clean Technology in the Energy Market.pdf)
-* “The political economy of trade in waste”. (Job Market Paper) [Full Paper](/files/pdf/The political economy of trade in waste.pdf)
+* “Environmental Lobbying on International Trade in Waste: Theory and Evidence”. (Job Market Paper) 
+* [Full Paper](/files/pdf/)
 
 ## Work in Progress
 
