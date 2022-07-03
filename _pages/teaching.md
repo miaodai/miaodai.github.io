@@ -7,12 +7,13 @@ During my master and PhD studies, I have gained extensive and valuable teaching 
 
 
 ## Instructor, Department of Economics, University of Winnipeg
-- Intermediate Microeconomics (Spring 2017) [here](/teaching-materials)
+- Intermediate Microeconomics (Spring 2017) 
+  [Lab Questions](/teaching-materials) [Assignments](/teaching-materials) [Practice Questions](/teaching-materials) [Exams](/teaching-materials)
 
 
 ## Graduate Teaching Assistant, Max Bell School of Public Policy, McGill University
-- Global Macroeconomic Policy (Winter 2022, Winter 2021, Winter 2020) [here](/teaching-materials)
-- Microeconomics for Public Policy (Fall 2021, Fall 2020, Fall 2019) [here](/teaching-materials)
+- Global Macroeconomic Policy (Winter 2022, Winter 2021, Winter 2020) 
+- Microeconomics for Public Policy (Fall 2021, Fall 2020, Fall 2019) 
 
 
 ## Teaching Assistant, Department of Economics, McGill University
