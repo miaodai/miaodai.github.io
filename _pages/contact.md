@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact"
 ---
 Department of Economics, <br/>
-Leacock Building, <br/>
+Leacock Building, Room 414 <br/>
 855 Sherbrooke Street West, <br/>
 Montreal, Quebec, Canada H3A 2T7 <br/>
 Email: miao.dai@mail.mcgill.ca  <br/>
