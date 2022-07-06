@@ -14,7 +14,7 @@ title: "Research"
 ## Work in Progress
 
 * “The role of pressure groups on international trade in waste: A gravity approach” 
-* “Common ownership in a nonrenewable market” 
+* “Common ownership, corporate social responsibility, and climate change” 
 * “Solving Feedback Nash equilibria with more heterogenous players: using Markov chain approximation method” 
 
 
