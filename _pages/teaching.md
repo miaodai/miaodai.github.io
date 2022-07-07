@@ -21,6 +21,7 @@ During my master and PhD studies, I have gained extensive and valuable teaching 
 - Advanced Economic Theory - Honours (Fall 2021)
 - Microeconomic Analysis and Applications (Summer 2021)
 - Microeconomic Theory (Winter 2021, Winter 2020, Winter 2018)
+   - [Conference Questions](files/Teaching/)
 - Political Economy of Trade Policy (Winter 2021, Winter 2019)
 - Industrial Organization (Fall 2020)
 - Public Sector Economics (Fall 2019, Fall 2018)
