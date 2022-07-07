@@ -8,7 +8,7 @@ During my master and PhD studies, I have gained extensive and valuable teaching 
 
 ## Instructor, Department of Economics, University of Winnipeg
 - Intermediate Microeconomics (Spring 2017)
-   - [Lab Questions](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EpzDkB35hldCpbzWdQMgW2oBxJAAgHyaIG-d4Ds6i7lZPQ?email=miao.dai%40mcgill.ca&e=BAJoLx) ; [Practice Sets](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EtB1IjDG0RpLpAPz-do_3QEBwsJ1GrnoU69FOUv_rMGbtg?email=miao.dai%40mcgill.ca&e=HHp763) ; [Assignments and Exams]([/teaching-materials](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/Es0vRx3_VhZPrwu72kD4F-EBwK704A9N3yoF7jKs7_A3sQ?email=miao.dai%40mcgill.ca&e=FOugNB)
+   - [Lab Questions](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EpzDkB35hldCpbzWdQMgW2oBxJAAgHyaIG-d4Ds6i7lZPQ?email=miao.dai%40mcgill.ca&e=BAJoLx) ; [Practice Sets](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EtB1IjDG0RpLpAPz-do_3QEBwsJ1GrnoU69FOUv_rMGbtg?email=miao.dai%40mcgill.ca&e=HHp763) ; [Assignments and Exams](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/Es0vRx3_VhZPrwu72kD4F-EBwK704A9N3yoF7jKs7_A3sQ?email=miao.dai%40mcgill.ca&e=FOugNB)
  
  
 ## Graduate Teaching Assistant, Max Bell School of Public Policy, McGill University
