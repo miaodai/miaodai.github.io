@@ -21,7 +21,7 @@ During my master and PhD studies, I have gained extensive and valuable teaching 
 - Advanced Economic Theory - Honours (Fall 2021)
 - Microeconomic Analysis and Applications (Summer 2021)
 - Microeconomic Theory (Winter 2021, Winter 2020, Winter 2018)
-   - [Conference Questions]([files/Teaching/Conference Questions](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EkOND73Aa6tMt219KkRR5I8BMfotaLQsdfNDP0Pk_nXUxw?email=miao.dai%40mcgill.ca&e=ux8a2T) ; [Conference Solutions](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EsIwpvMWo1FOneHNgGeqyEQB_bq2WN53WU06pVixPZsEPw?email=miao.dai%40mcgill.ca&e=iT5RuE)
+   - [Conference Questions](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EkOND73Aa6tMt219KkRR5I8BMfotaLQsdfNDP0Pk_nXUxw?email=miao.dai%40mcgill.ca&e=ux8a2T) ; [Conference Solutions](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EsIwpvMWo1FOneHNgGeqyEQB_bq2WN53WU06pVixPZsEPw?email=miao.dai%40mcgill.ca&e=iT5RuE)
 - Political Economy of Trade Policy (Winter 2021, Winter 2019)
 - Industrial Organization (Fall 2020)
 - Public Sector Economics (Fall 2019, Fall 2018)
