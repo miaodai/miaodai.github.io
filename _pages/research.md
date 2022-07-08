@@ -9,7 +9,7 @@ title: "Research"
 * “The impact of cross-ownership on the value of a clean technology in the energy market” with Hassan Benchekroun and Ngo Van Long (2022), Environmental Modelling and Assessment: 1-13. [Full Paper](https://rdcu.be/cQAOE) ; [Link](https://doi.org/10.1007/s10666-022-09840-7)
 
 ## Working Papers
-* “Environmental Lobbying on International Trade in Waste: Theory and Evidence”. (Job Market Paper) [Full Paper](/files/pdf/JMP_Miao.pdf)
+* “Environmental Lobbying on International Trade in Waste: Theory and Evidence”. (Job Market Paper) 
 
 ## Work in Progress
 
