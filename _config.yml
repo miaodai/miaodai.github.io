@@ -306,6 +306,14 @@ tag_archive:
 # Google Analytics
 google_analytics: UA-229748296-1
 
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  google:
+    measurement_id          : G-JL2ZY530JC
+    anonymize_ip         : # true, false (default)
+
+
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
