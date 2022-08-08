@@ -7,6 +7,15 @@ redirect_from:
   - /home/
   - /home.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JL2ZY530JC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JL2ZY530JC');
+</script>
 
 Welcome to my personal website!
 
