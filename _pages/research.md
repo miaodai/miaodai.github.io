@@ -2,6 +2,17 @@
 permalink: /research/
 title: "Research"
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JL2ZY530JC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JL2ZY530JC');
+</script>
+
 My doctoral research has investigated how changes in ownership structure will affect the strategic resource use and their implications for climate change. More specifically, motivated by the increasing cross-ownership transactions, I examine the impact of cross-ownership on market outcomes when the scarcity and dynamics of the resources are taken into account. In another extension paper, I investigate the impact of cross-ownership among polluting oligopolists on the value of a clean substitute. 
 
 
