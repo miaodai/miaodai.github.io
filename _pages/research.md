@@ -13,7 +13,7 @@ title: "Research"
   gtag('config', 'G-JL2ZY530JC');
 </script>
 
-My doctoral research has investigated how changes in ownership structure will affect the strategic resource use and their implications for climate change. More specifically, motivated by the increasing cross-ownership transactions, I examine the impact of cross-ownership on market outcomes when the scarcity and dynamics of the resources are taken into account. In another extension paper, I investigate the impact of cross-ownership among polluting oligopolists on the value of a clean substitute. 
+My doctoral research has investigated how changes in ownership structure affect strategic resource use and their implications for climate change. More specifically, motivated by the increasing cross-ownership transactions, I examine the impact of cross-ownership on market outcomes when the resources' scarcity and dynamics are considered. In another extension paper, I investigate the impact of cross-ownership among polluting oligopolists on the value of a clean substitute.
 
 
 ## Publications
