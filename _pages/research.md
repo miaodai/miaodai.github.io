@@ -26,7 +26,7 @@ My doctoral research has investigated how changes in ownership structure affect 
 
 ## Work in Progress
 
-* “The role of pressure groups on international trade in waste: A gravity approach” 
+* “The role of pressure groups on international trade in waste: A gravity model approach” 
 * “Common ownership, corporate social responsibility, and climate change” 
 * “Solving Feedback Nash equilibria with more heterogenous players: using Markov chain approximation method” 
 
