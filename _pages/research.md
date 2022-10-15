@@ -17,7 +17,7 @@ My doctoral research has investigated how changes in ownership structure affect 
 
 ## Working Papers
 * “Environmental Lobbying on International Trade in Waste: Theory and Evidence”. (Job Market Paper) 
-- [Lasserre-Renzetti Prize for best student paper] (https://sites.google.com/view/creeaacere/awards/lasserre-renzetti-prize?authuser=0)
+- [Lasserre-Renzetti Prize for best student paper](https://sites.google.com/view/creeaacere/awards/lasserre-renzetti-prize?authuser=0)
 <!-- [Slides](/files/pdf/JMP_Long Slides.pdf) -->
 
 ## Publications
