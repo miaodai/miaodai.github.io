@@ -26,8 +26,8 @@ During my master's and Ph.D. studies, I have gained extensive and valuable teach
 
 
 ## Teaching Assistant, Department of Economics, McGill University
-- Natural Resource Economics (Winter 2022)
-- Advanced Economic Theory - Honours (Fall 2021)
+- Natural Resource Economics (Winter 2023, Winter 2022)
+- Advanced Economic Theory - Honours (Fall 2022, Fall 2021)
 - Microeconomic Analysis and Applications (Summer 2021)
 - Microeconomic Theory (Winter 2021, Winter 2020, Winter 2018)
    - [Conference Questions](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EkOND73Aa6tMt219KkRR5I8BMfotaLQsdfNDP0Pk_nXUxw?email=miao.dai%40mcgill.ca&e=ux8a2T) ; [Conference Solutions](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EsIwpvMWo1FOneHNgGeqyEQB_bq2WN53WU06pVixPZsEPw?email=miao.dai%40mcgill.ca&e=iT5RuE)
