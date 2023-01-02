@@ -27,8 +27,9 @@ My doctoral research has investigated how changes in ownership structure affect 
 
 ## Work in Progress
 
+* “The Welfare Impact of Cross-ownership in Bertrand Nonrenewable Resource Oligopolies"
 * “The role of pressure groups on international trade in waste: A gravity model approach” 
-* “Common ownership, corporate social responsibility, and climate change” 
+* “Common ownership, corporate social responsibility, and climate change”, with Hassan Benchekroun
 * “Solving Feedback Nash equilibria with more heterogenous players: using Markov chain approximation method” 
 
 
