@@ -22,7 +22,7 @@ My doctoral research has investigated how changes in ownership structure affect 
 
 ## Publications
 
-* "On the profitability of cross-ownership in Cournot oligopolies: Stock size matters" with Hassan Benchekroun and Ngo Van Long (2022), Journal of Environmental Economics and Management, Volume 111: 102597. [Full Paper](/files/pdf/JEEM.pdf) ; [link](https://doi.org/10.1016/j.jeem.2021.102597)
+* "On the profitability of cross-ownership in Cournot nonrenewable resource oligopolies: Stock size matters" with Hassan Benchekroun and Ngo Van Long (2022), Journal of Environmental Economics and Management, Volume 111: 102597. [Full Paper](/files/pdf/JEEM.pdf) ; [link](https://doi.org/10.1016/j.jeem.2021.102597)
 * “The impact of cross-ownership on the value of a clean technology in the energy market” with Hassan Benchekroun and Ngo Van Long (2022), Environmental Modeling and Assessment: 1-13. [Full Paper](https://rdcu.be/cQAOE) ; [Link](https://doi.org/10.1007/s10666-022-09840-7)
 
 ## Work in Progress
