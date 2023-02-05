@@ -17,11 +17,9 @@ During my master's and Ph.D. studies, I have gained extensive and valuable teach
 
 ## Instructor, Department of Economics, University of Winnipeg
 - Intermediate Microeconomics (Spring 2017)
-   - [Lab Questions](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EpzDkB35hldCpbzWdQMgW2oBxJAAgHyaIG-d4Ds6i7lZPQ?email=miao.dai%40mcgill.ca&e=BAJoLx) ; [Practice Sets](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EtB1IjDG0RpLpAPz-do_3QEBwsJ1GrnoU69FOUv_rMGbtg?email=miao.dai%40mcgill.ca&e=HHp763) ; [Assignments and Exams](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/Es0vRx3_VhZPrwu72kD4F-EBwK704A9N3yoF7jKs7_A3sQ?email=miao.dai%40mcgill.ca&e=FOugNB)
- 
  
 ## Graduate Teaching Assistant, Max Bell School of Public Policy, McGill University
-- Global Macroeconomic Policy (Winter 2022, Winter 2021, Winter 2020) 
+- Global Macroeconomic Policy (Winter 2023, Winter 2022, Winter 2021, Winter 2020) 
 - Microeconomics for Public Policy (Fall 2021, Fall 2020, Fall 2019) 
 
 
@@ -31,7 +29,6 @@ During my master's and Ph.D. studies, I have gained extensive and valuable teach
   - [Differential Equations](/files/Teaching/Differential_equations.pdf); [Dynamic Games](/files/Teaching/Dynamic_games.pdf)
 - Microeconomic Analysis and Applications (Summer 2021)
 - Microeconomic Theory (Winter 2021, Winter 2020, Winter 2018)
-   - [Conference Questions](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EkOND73Aa6tMt219KkRR5I8BMfotaLQsdfNDP0Pk_nXUxw?email=miao.dai%40mcgill.ca&e=ux8a2T) ; [Conference Solutions](https://mcgill-my.sharepoint.com/:f:/g/personal/miao_dai_mail_mcgill_ca/EsIwpvMWo1FOneHNgGeqyEQB_bq2WN53WU06pVixPZsEPw?email=miao.dai%40mcgill.ca&e=iT5RuE)
 - Political Economy of Trade Policy (Winter 2021, Winter 2019)
 - Industrial Organization (Fall 2020)
 - Public Sector Economics (Fall 2019, Fall 2018)
