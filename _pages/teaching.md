@@ -20,7 +20,7 @@ During my master's and Ph.D. studies, I have gained extensive and valuable teach
  
 ## Graduate Teaching Assistant, Max Bell School of Public Policy, McGill University
 - Global Macroeconomic Policy (Winter 2023, Winter 2022, Winter 2021, Winter 2020) 
-  - [A1_solutions](/files/Teaching/A1_solutions.pdf)
+  - [A1_Solutions](/files/Teaching/A1_solutions.pdf)
 - Microeconomics for Public Policy (Fall 2021, Fall 2020, Fall 2019) 
 
 
