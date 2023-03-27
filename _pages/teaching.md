@@ -27,7 +27,7 @@ During my master's and Ph.D. studies, I have gained extensive and valuable teach
 ## Teaching Assistant, Department of Economics, McGill University
 - Natural Resource Economics (Winter 2023, Winter 2022)
 - Advanced Economic Theory - Honours (Fall 2022, Fall 2021)
-  - [Differential Equations](/files/Teaching/Differential_equations.pdf); [Dynamic Games](/files/Teaching/Dynamic_games.pdf)
+<!--   - [Differential Equations](/files/Teaching/Differential_equations.pdf); [Dynamic Games](/files/Teaching/Dynamic_games.pdf) -->
 - Microeconomic Analysis and Applications (Summer 2021)
 - Microeconomic Theory (Winter 2021, Winter 2020, Winter 2018)
 - Political Economy of Trade Policy (Winter 2021, Winter 2019)
