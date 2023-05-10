@@ -18,19 +18,19 @@ My doctoral research has investigated how changes in ownership structure affect 
 ## Working Papers
 * “Environmental Lobbying on International Trade in Waste: Theory and Evidence”. (Job Market Paper) [Full Paper](/files/pdf/JMP_Miao.pdf)
    - [Lasserre-Renzetti Prize for best student paper](https://sites.google.com/view/creeaacere/awards/lasserre-renzetti-prize?authuser=0)
-<!-- [Slides](/files/pdf/JMP_Long Slides.pdf) -->
+* “On the impact of cross-ownership in a common property renewable resource oligopoly”, with Hassan Benchekroun
 
 ## Publications
 
-* "On the profitability of cross-ownership in Cournot nonrenewable resource oligopolies: Stock size matters" with Hassan Benchekroun and Ngo Van Long (2022), Journal of Environmental Economics and Management, Volume 111: 102597. [Full Paper](/files/pdf/JEEM.pdf) ; [link](https://doi.org/10.1016/j.jeem.2021.102597)
-* “The impact of cross-ownership on the value of a clean technology in the energy market” with Hassan Benchekroun and Ngo Van Long (2022), Environmental Modeling and Assessment: 1-13. [Full Paper](https://rdcu.be/cQAOE) ; [Link](https://doi.org/10.1007/s10666-022-09840-7)
+* "On the profitability of cross-ownership in Cournot nonrenewable resource oligopolies: Stock size matters" with Hassan Benchekroun and Ngo Van Long (2022), Journal of Environmental Economics and Management, Volume 111: 102597. [Full Paper](/files/pdf/JEEM.pdf) ; [DOI link](https://doi.org/10.1016/j.jeem.2021.102597)
+* “The impact of cross-ownership on the value of a clean technology in the energy market” with Hassan Benchekroun and Ngo Van Long (2022), Environmental Modeling and Assessment: 1-13. [Full Paper](/files/pdf/EMA.pdf) ; [DOI Link](https://doi.org/10.1007/s10666-022-09840-7)
 
 ## Work in Progress
 
-* “The welfare impact of cross-ownership in Bertrand nonrenewable resource oligopolies"
+* “On the comparison of Cournot and Bertrand  equilibria in a nonrenewable resource differentiated product oligopoly with cross-ownership"
 * “The role of pressure groups on international trade in waste: A gravity model approach” 
-* “Common ownership, corporate social responsibility, and climate change”, with Hassan Benchekroun
-* “Solving Feedback Nash equilibria with more heterogenous players: using Markov chain approximation method” 
+* “Common ownership, corporate social responsibility, and climate change”
+* “Trade restriction and transboundary pollution: A differential game approach” 
 
 
 
