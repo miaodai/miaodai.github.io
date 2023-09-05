@@ -19,9 +19,12 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am a Ph.D. candidate at the [Department of Economics](https://www.mcgill.ca/economics/), [McGill University](https://www.mcgill.ca/), Canada. I expect to graduate in 2023. My research lies at the crossroads of Environmental and Resource Economics, Industrial Organization, International Trade and Political Economy. 
+I am a Postdoctoral Researcher at the [Center for Environmental Economics - Montpellier](https://www.cee-m.fr/). I have finished my degree requirements for PhD in Economics from [McGill University](https://www.mcgill.ca/), Canada.
 
-I will join the [Center for Environmental Economics - Montpellier](https://www.cee-m.fr/) as a Postdoctoral Researcher in the fall of 2023. 
-<!-- I will join the [School of Economics](http://eco.hust.edu.cn/) at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) as an Assistant Professor in the summer of 2023. -->
+I am an environmental and resource economist. I study various resource market distortions and their impacts on firms’ behaviour and the environment! Specifically, my doctoral research focuses on two distinct market distortions: lobby groups in the international waste market and cross-ownership in the nonrenewable resource sector. My current research investigates the role of critical minerals and their recycling in the transition to clean energy. 
 
-My current research focuses on resource market imperfections caused by political lobbying and cross-ownership and their impacts on firm behaviour and the environment. In my [job market paper](https://www.miaodai.org/files/pdf/JMP_Miao.pdf), concerned with the growing North-to-South waste shipments and environmental degradation, I examine whether strengthening environmental lobby groups can represent an important strategy to reduce the international waste trade. To do so, I first develop a theoretical model, emphasizing the potential impact of green lobbies on environmental and trade policies and how waste trade flows are affected through these policy channels. Then, I take the theory to the data to causally identify the effects of environmental lobbying on the waste trade.
+
+
+<!-- I will join the [School of Economics](http://eco.hust.edu.cn/) at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) as an Assistant Professor in the summer of 2023. Ph.D. candidate at the [Department of Economics](https://www.mcgill.ca/economics/), [McGill University](https://www.mcgill.ca/), Canada. I expect to graduate in 2023. My research lies at the crossroads of Environmental and Resource Economics, Industrial Organization, International Trade and Political Economy. focuses on resource market imperfections caused by political lobbying and cross-ownership and their impacts on firm behaviour and the environment.-->
+
+
