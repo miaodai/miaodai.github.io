@@ -21,7 +21,9 @@ Welcome to my personal website!
 
 I am a Postdoctoral Researcher at the [Center for Environmental Economics - Montpellier](https://www.cee-m.fr/). I have finished my degree requirements for PhD in Economics from [McGill University](https://www.mcgill.ca/), Canada.
 
-I am an environmental and resource economist. I study various resource market distortions and their impacts on firms’ behaviour and the environment! Specifically, my doctoral research focuses on two distinct market distortions: lobby groups in the international waste market and cross-ownership in the nonrenewable resource sector. My current research investigates the role of critical minerals and their recycling in the transition to clean energy. 
+I am an environmental and resource economist. I study various resource market distortions and their impacts on firms’ behaviour and the environment! Specifically, my doctoral research focuses on two distinct market distortions: lobby groups in the international waste market and cross-ownership in the nonrenewable resource sector. 
+
+My current research investigates the role of critical minerals and their recycling in the transition to clean energy. I am working with [Francesco Ricci](https://sites.google.com/view/francescoricci) and [Mouez Fohda](https://www.pantheonsorbonne.fr/page-perso/fodha) to develop a unified model to characterize the whole value chain involved in recycling, identifying the specific actors and analyzing their behaviour. Building on this analytical framework, we aim to progressively introduce potential market failures such as the emergence of natural monopoly at the stage of the recovery, negative externalities of primary production and waste disposal, positive externalities due to recycling, etc. This will allow us to consider the opportunity for public interventions and regulations. 
 
 
 
