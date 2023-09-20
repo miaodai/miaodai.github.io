@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Miao Dai"
 title_separator          : "-"
 name                     : &name "Miao Dai"
-description              : &description "PhD Candidate, Department of Economics, McGill University"
+description              : &description "Postdoctoral Researcher, Center for Environmental Economics - Montpellier(CEE-M)"
 url                      : https://miaodai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "miaodai/miaodai.github.io"
@@ -85,8 +85,8 @@ analytics:
 author:
   name             : "Miao Dai"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate"
-  location         : "Montreal, Quebec, Canada"
+  bio              : "Postdoctoral Researcher "
+  location         : "Montpellier, France"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.ca/citations?user=UozMjYoAAAAJ&hl=en"
