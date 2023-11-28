@@ -16,7 +16,7 @@ UFR Economie, <br/>
 Avenue Raymond Dugrand, <br/>
 CS79606, <br/>
 34960 Montpellier Cedex 2 <br/>
-Email: miao.dai@mail.mcgill.ca  or miao.dai@umontpellier.fr <br/>
+Email: miao.dai@mail.mcgill.ca <br/>
 Phone: +33-0656662238   
 
 
