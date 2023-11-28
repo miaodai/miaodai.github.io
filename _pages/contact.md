@@ -12,12 +12,12 @@ title: "Contact"
   gtag('config', 'G-JL2ZY530JC');
 </script>
 
-Department of Economics, <br/>
-Leacock Building, Room 414 <br/>
-855 Sherbrooke Street West, <br/>
-Montreal, Quebec, Canada H3A 2T7 <br/>
-Email: miao.dai@mail.mcgill.ca  <br/>
-Phone: +1-438-630-9165   
+UFR Economie, <br/>
+Avenue Raymond Dugrand, <br/>
+CS79606, <br/>
+34960 Montpellier Cedex 2 <br/>
+Email: miao.dai@mail.mcgill.ca m or miao.dai@umontpellier.fr <br/>
+Phone: +33-0656662238   
 
 
 
