@@ -18,7 +18,7 @@ title: "Research"
 * “Efficient recycling”, with [Francesco Ricci](https://sites.google.com/view/francescoricci) and [Mouez Fodha](https://www.pantheonsorbonne.fr/page-perso/fodha#page-perso-about)
   
 * “On the impact of cross-ownership in a common property renewable resource oligopoly”, May 2024. [CEE-M working paper](/files/pdf/WP-2024-09.pdf) ; [Link](https://hal.inrae.fr/hal-04573659) 
-   with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Ilyass Dahmouni](https://scholar.google.com/citations?user=v6qZr68AAAAJ&hl=en). 
+  <span style="font-size: 0.9em; color:#808080"> with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Ilyass Dahmouni](https://scholar.google.com/citations?user=v6qZr68AAAAJ&hl=en). 
   
 * “Environmental Lobbying on International Trade in Waste: Theory and Evidence”.  [CEE-M working paper](/files/pdf/JMP_Miao.pdf) ; [Link](https://hal.inrae.fr/hal-04198721)
    - [Lasserre-Renzetti Prize for best student paper](https://sites.google.com/view/creeaacere/awards/lasserre-renzetti-prize?authuser=0)
