@@ -16,8 +16,10 @@ title: "Research"
 
 ## Working Papers
 * “Efficient recycling”, with [Francesco Ricci](https://sites.google.com/view/francescoricci) and [Mouez Fodha](https://www.pantheonsorbonne.fr/page-perso/fodha#page-perso-about)
-* “On the impact of cross-ownership in a common property renewable resource oligopoly”, with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Ilyass Dahmouni](https://scholar.google.com/citations?user=v6qZr68AAAAJ&hl=en). 
-  [CEE-M working paper](/files/pdf/WP-2024-09.pdf) ; [Link](https://hal.inrae.fr/hal-04573659)
+  
+* “On the impact of cross-ownership in a common property renewable resource oligopoly”, May 2024. [CEE-M working paper](/files/pdf/WP-2024-09.pdf) ; [Link](https://hal.inrae.fr/hal-04573659) 
+   with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Ilyass Dahmouni](https://scholar.google.com/citations?user=v6qZr68AAAAJ&hl=en). 
+  
 * “Environmental Lobbying on International Trade in Waste: Theory and Evidence”.  [CEE-M working paper](/files/pdf/JMP_Miao.pdf) ; [Link](https://hal.inrae.fr/hal-04198721)
    - [Lasserre-Renzetti Prize for best student paper](https://sites.google.com/view/creeaacere/awards/lasserre-renzetti-prize?authuser=0)
 
@@ -31,7 +33,6 @@ title: "Research"
 ## Work in Progress
 
 * “On the comparison of Cournot and Bertrand  equilibria in a nonrenewable resource differentiated product oligopoly with cross-ownership"
-* “The role of pressure groups on international trade in waste: A gravity model approach” 
 * “Common ownership, corporate social responsibility, and climate change”
 * “Trade restriction and transboundary pollution: A differential game approach” 
 
