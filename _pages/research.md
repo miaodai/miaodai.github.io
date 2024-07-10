@@ -28,9 +28,10 @@ title: "Research"
 1007-1019. [Full Paper](/files/pdf/EMA.pdf) ; [DOI Link](https://doi.org/10.1007/s10666-022-09840-7)
 
 ## Work in Progress
-
-* “On the comparison of Cournot and Bertrand  equilibria in a nonrenewable resource differentiated product oligopoly with cross-ownership"
-* “Common ownership, corporate social responsibility, and climate change”
+* “Indirect and direct lobbying on international trade in waste"
+* “Recycling and strategic trade policy”, with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Francesco Ricci](https://sites.google.com/view/francescoricci)
+* “Recycling, oligopolistic competition and horizontal merger in nonrenewable resource oligopolies"
+* “On the comparison of Cournot and Bertrand equilibria in a nonrenewable resource differentiated product oligopoly with cross-ownership"
 * “Trade restriction and transboundary pollution: A differential game approach” 
 
 
