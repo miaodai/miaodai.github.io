@@ -21,7 +21,9 @@ Welcome to my personal website!
 
 I am a [Postdoctoral Researcher](https://www.cee-m.fr/member/dai-miao/) at the [Center for Environmental Economics - Montpellier](https://www.cee-m.fr/) (CEE-M). I obtained my Ph.D. in Economics from [McGill University](https://www.mcgill.ca/), Canada, in 2023.
 
-I am a resource and environmental economist. I study various resource market distortions and their impacts on firms’ behaviour and the environment! My doctoral research focuses on two distinct market distortions: the influence of lobby groups in the international waste market and the presence of cross-ownership in the nonrenewable/renewable resource sector. Currently, I am investigating the role of critical minerals and their recycling in the transition to clean energy. 
+As an applied microeconomist, my primary research interests lie in environmental and resource economics, industrial organization, international trade, and dynamic games. My doctoral research focused on various resource market distortions and their impacts on firms’ behaviour and the environment. Specifically, I investigated two distinct market distortions: the influence of lobby groups in the international waste market and the presence of cross-ownership in the nonrenewable/renewable resource sector.
+
+Currently, I am exploring the role of critical minerals and their recycling in the transition to clean energy.
 
 
 <!---->
