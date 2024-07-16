@@ -29,6 +29,7 @@ title: "Research"
 
 ## Work in Progress
 * “Indirect and direct lobbying on international trade in waste"
+* "The effects of environmental lobbying on international trade in waste'', with [Aranya Chakraborty](https://www.aranyachakraborty.com/)
 * “Recycling and strategic trade policy”, with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Francesco Ricci](https://sites.google.com/view/francescoricci)
 * “Recycling, oligopolistic competition and horizontal merger in nonrenewable resource oligopolies"
 * “On the comparison of Cournot and Bertrand equilibria in a nonrenewable resource differentiated product oligopoly with cross-ownership"
