@@ -16,7 +16,7 @@ title: "Research"
 
 ## Working Papers
 * “Matter matters: Efficient recycling policies under tight markets for scrap”, with [Francesco Ricci](https://sites.google.com/view/francescoricci) and [Mouez Fodha](https://www.pantheonsorbonne.fr/page-perso/fodha#page-perso-about) 
-* “On the impact of cross-ownership in a dynamic Cournot oligopoly”, with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Ilyass Dahmouni](https://scholar.google.com/citations?user=v6qZr68AAAAJ&hl=en), December 2024. [New version](/files/pdf/Theoretical_Econ_DaiBenchekrounDahmouni.pdf)
+* “On the impact of cross-ownership in a dynamic Cournot oligopoly”, with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Ilyass Dahmouni](https://scholar.google.com/citations?user=v6qZr68AAAAJ&hl=en), December 2024. [New version](/files/pdf/TE_manuscript.pdf)
   - An old version was circulated under the title “On the impact of cross-ownership in a common property renewable resource oligopoly”, May 2024. [CEE-M working paper](/files/pdf/WP-2024-09.pdf) ; [Link](https://hal.inrae.fr/hal-04573659)
 * “Environmental Lobbying on International Trade in Waste: Theory and Evidence”, September 2023.  [CEE-M working paper](/files/pdf/JMP_Miao.pdf) ; [Link](https://hal.inrae.fr/hal-04198721)
    - [Lasserre-Renzetti Prize for best student paper](https://sites.google.com/view/creeaacere/awards/lasserre-renzetti-prize?authuser=0)
