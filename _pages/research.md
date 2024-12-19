@@ -29,12 +29,12 @@ title: "Research"
 1007-1019. [Full Paper](/files/pdf/EMA.pdf) ; [DOI Link](https://doi.org/10.1007/s10666-022-09840-7)
 
 ## Work in Progress
-* “Indirect and direct lobbying on international trade in waste"
-* "The effects of environmental lobbying on international trade in waste'', with [Aranya Chakraborty](https://www.aranyachakraborty.com/)
 * “Recycling and strategic trade policy”, with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Francesco Ricci](https://sites.google.com/view/francescoricci)
-* “Recycling, oligopolistic competition and horizontal merger in nonrenewable resource oligopolies"
-* “On the comparison of Cournot and Bertrand equilibria in a nonrenewable resource differentiated product oligopoly with cross-ownership"
-* “Trade restriction and transboundary pollution: A differential game approach” 
+* “Indirect and direct lobbying on international trade in waste", with [Guillaume Cheikbossian](https://sites.google.com/site/cheikbossianguillaume/)
+* “The pro-competitive effects of cross-ownership: Experimental evidence in a common property renewable resource oligopoly'', with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/), [Dimitri Dubois](http://www.duboishome.info/dimitri) and [Marc Willinger](https://sites.google.com/view/marcwillinger/home)
+* “The optimal policy to accelerate electric vehicle adoption: Taxes or subsidies?", with [Santiago J. Rubio](https://www.uv.es/srubio/) and [Françeska Tomori](https://scholar.google.es/citations?user=q3xxPGoAAAAJ&hl=en)
+* “Recycling, oligopolistic competition and competition policies in nonrenewable resource oligopolies"
+
 
 
 
