@@ -12,10 +12,10 @@ title: "Contact"
   gtag('config', 'G-JL2ZY530JC');
 </script>
 
-UFR Economie, <br/>
-Avenue Raymond Dugrand, <br/>
-CS79606, <br/>
-34960 Montpellier Cedex 2 <br/>
+Department of Spatial Economics, <br/>
+De Boelelaan 1105, <br/>
+1081 HV  Amsterdam, <br/>
+the Netherlands Cedex 2 <br/>
 Email: miao.dai@mail.mcgill.ca <br/>
 Phone: +33-0656662238   
 
