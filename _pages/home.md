@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a Postdoctoral Researcher at the [Department of Spatial Economics](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/departments/department-of-spatial-economics) in [Vrije Universiteit Amsterdam](https://vu.nl/nl). Previously, I was a [Postdoctoral Researcher](https://www.cee-m.fr/member/dai-miao/) at the [Center for Environmental Economics - Montpellier](https://www.cee-m.fr/) (CEE-M), France. I obtained my Ph.D. in Economics from [McGill University](https://www.mcgill.ca/), Canada, in 2023.
+I am a [Postdoctoral Researcher](https://research.vu.nl/en/persons/miao-dai) at the [Department of Spatial Economics](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/departments/department-of-spatial-economics) in [Vrije Universiteit Amsterdam](https://vu.nl/nl). Previously, I was a [Postdoctoral Researcher](https://www.cee-m.fr/member/dai-miao/) at the [Center for Environmental Economics - Montpellier](https://www.cee-m.fr/) (CEE-M), France. I obtained my Ph.D. in Economics from [McGill University](https://www.mcgill.ca/), Canada, in 2023.
 
 I am an applied microeconomist. My main research interests are environmental and resource economics, industrial organization, international trade and dynamic games. My doctoral research focused on various resource market distortions and their impacts on firms’ behaviour and the environment. Specifically, I investigated two distinct market distortions: the influence of lobby groups in the international waste market and the presence of cross-ownership in the nonrenewable/renewable resource sector.
 
