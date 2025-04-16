@@ -15,7 +15,7 @@ title: "Contact"
 Department of Spatial Economics, <br/>
 De Boelelaan 1105, <br/>
 1081 HV  Amsterdam, <br/>
-the Netherlands Cedex 2 <br/>
+the Netherlands <br/>
 Email: miao.dai@mail.mcgill.ca <br/>
 Phone: +33-0656662238   
 
