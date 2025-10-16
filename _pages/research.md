@@ -15,8 +15,12 @@ title: "Research"
 
 
 ## Working Papers
+* “On the impact of cross-ownership in a common property renewable resource oligopoly”, September 2025. (Job Market Paper, under review at \textit{Journal of Environmental Economics and Management}) [CEE-M working paper](/files/pdf/WP-2024-09.pdf) ; [Updated Version](https://hal.inrae.fr/hal-04573659)
+* 
+* “Indirect and direct lobbying on international trade in waste", with [Guillaume Cheikbossian](https://sites.google.com/site/cheikbossianguillaume/)
+  
 * “Matter matters: Efficient recycling policies under tight markets for scrap”, with [Francesco Ricci](https://sites.google.com/view/francescoricci) and [Mouez Fodha](https://www.pantheonsorbonne.fr/page-perso/fodha#page-perso-about) 
-* “On the impact of cross-ownership in a common property renewable resource oligopoly”, May 2024. [CEE-M working paper](/files/pdf/WP-2024-09.pdf) ; [Link](https://hal.inrae.fr/hal-04573659)
+
 * “Environmental Lobbying on International Trade in Waste: Theory and Evidence”, September 2023.  [CEE-M working paper](/files/pdf/JMP_Miao.pdf) ; [Link](https://hal.inrae.fr/hal-04198721)
    - [Lasserre-Renzetti Prize for best student paper](https://sites.google.com/view/creeaacere/awards/lasserre-renzetti-prize?authuser=0)
 
@@ -29,7 +33,7 @@ title: "Research"
 
 ## Work in Progress
 * “Recycling and strategic trade policy”, with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Francesco Ricci](https://sites.google.com/view/francescoricci)
-* “Indirect and direct lobbying on international trade in waste", with [Guillaume Cheikbossian](https://sites.google.com/site/cheikbossianguillaume/)
+
 * “The pro-competitive effects of cross-ownership: Experimental evidence in a common property renewable resource oligopoly'', with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/), [Dimitri Dubois](http://www.duboishome.info/dimitri) and [Marc Willinger](https://sites.google.com/view/marcwillinger/home)
 * “The optimal policy to accelerate electric vehicle adoption: Taxes or subsidies?", with [Santiago J. Rubio](https://www.uv.es/srubio/) and [Françeska Tomori](https://scholar.google.es/citations?user=q3xxPGoAAAAJ&hl=en)
 * “Recycling, oligopolistic competition and competition policies in nonrenewable resource oligopolies"
