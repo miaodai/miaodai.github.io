@@ -40,7 +40,9 @@ title: "Research"
 
 * “The pro-competitive effects of cross-ownership: Experimental evidence in a common property renewable resource oligopoly'', with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/), [Dimitri Dubois](http://www.duboishome.info/dimitri) and [Marc Willinger](https://sites.google.com/view/marcwillinger/home)
   
-* “Recycling, oligopolistic competition and competition policies in nonrenewable resource oligopolies", with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/), [Dimitri Dubois](http://www.duboishome.info/dimitri) and [Marc Willinger](https://sites.google.com/view/marcwillinger/home)
+* “Recycling, oligopolistic competition and competition policies in nonrenewable resource oligopolies", with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/), [Gerard van der Meijden](https://research.vu.nl/en/persons/gerard-van-der-meijden) and [Cees Withagen](https://research.vu.nl/en/persons/cees-withagen)
+
+* “The impact of cross-ownership on the exploitation of a polluting common property  renewable resource oligopoly", with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/), [Gerard van der Meijden](https://research.vu.nl/en/persons/gerard-van-der-meijden) and [Cees Withagen](https://research.vu.nl/en/persons/cees-withagen)
 
 
 
