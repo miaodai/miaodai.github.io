@@ -29,7 +29,7 @@ title: "Research"
 * “The impact of cross-ownership on the value of a clean technology in the energy market”, with Hassan Benchekroun and Ngo Van Long (2022), Environmental Modeling and Assessment, 27(6): 1007-1019. [Full Paper](/files/pdf/EMA.pdf) ; [DOI Link](https://doi.org/10.1007/s10666-022-09840-7)
 
 ## Work in Progress
-* “Recycling and strategic trade policy”, with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Francesco Ricci](https://sites.google.com/view/francescoricci)
+* “Strategic recycling of critical raw materials”, with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Francesco Ricci](https://sites.google.com/view/francescoricci)
 * “Recycling, oligopolistic competition and competition policies in nonrenewable resource oligopolies", with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/), [Gerard van der Meijden](https://research.vu.nl/en/persons/gerard-van-der-meijden) and [Cees Withagen](https://research.vu.nl/en/persons/cees-withagen)
 * "The insiders' dilemma of cross-ownership participants: Experimental evidence'', with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/), [Dimitri Dubois](http://www.duboishome.info/dimitri) and [Marc Willinger](https://sites.google.com/view/marcwillinger/home)
 * “The pro-competitive effects of cross-ownership: Experimental evidence in a common property renewable resource oligopoly", with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/), [Dimitri Dubois](http://www.duboishome.info/dimitri) and [Marc Willinger](https://sites.google.com/view/marcwillinger/home)
