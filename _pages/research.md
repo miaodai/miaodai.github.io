@@ -15,7 +15,7 @@ title: "Research"
 
 
 ## Working Papers
-* “On the impact of cross-ownership in a common property renewable resource oligopoly”, September 2025. (Job Market Paper, under review) [CEE-M working paper](/files/pdf/WP-2024-09.pdf) ; [Latest Version](/files/pdf/JMP_Miao.pdf)
+* “On the impact of cross-ownership in a common property renewable resource oligopoly”, with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/) and [Ilyass Dahmouni](https://scholar.google.ca/citations?user=v6qZr68AAAAJ&hl=en), September 2025. (Job Market Paper, under review) [CEE-M working paper](/files/pdf/WP-2024-09.pdf) ; [Latest Version](/files/pdf/JMP_Miao.pdf)
 *  “On cross-ownership in a nonrenewable resource differentiated product oligopoly'', with [Hassan Benchekroun](https://sites.google.com/site/hbhassanbenchekroun/), September 2025. (Under review, chapter contribution for Game theory in economics and management (Essays in honour of Guiomar Martín Herrán)) [Link](/files/pdf/Chapter_manuscript.pdf)
 * “Indirect and direct lobbying on international trade in waste", with [Guillaume Cheikbossian](https://sites.google.com/site/cheikbossianguillaume/), October 2025. (Under review ) [Link](/files/pdf/Lobbying_Miao.pdf)
 * “Matter matters: Efficient recycling policies under tight markets for scrap”, with [Francesco Ricci](https://sites.google.com/view/francescoricci) and [Mouez Fodha](https://www.pantheonsorbonne.fr/page-perso/fodha#page-perso-about), October 2025. (Draft available upon request) [Slides](/files/pdf/Efficient_recycling_Slides.pdf)
